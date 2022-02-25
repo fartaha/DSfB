@@ -12,3 +12,12 @@ This is what I learnt from DSfB 1 course @ Aalto University
 [3] An Introduction to Statistical Learnin by James, Witten, Hastie, Tibshirani
 
 [4] Introduction to Machine Learning with Python by Muller, Guido
+
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
